@@ -2,3 +2,4 @@ This is the first commit in this document.
 This is the first commit via UI
 This is the second commit via command line.
 This is the third commit via command line.
+This is the fourth line from command line.
